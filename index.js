@@ -1,7 +1,9 @@
-function happyHolidays(string){
+function sayHappyHolidays(string){
   return string('Happy Holidays!')
 }
 
-function logHappyHolidays(string){
+string.sayHappyHolidays
+
+function log.sayHappyHolidays(string){
   return console.log(string('Happy Holidays'))
 }
